@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kirkssmp.aternos.me",
-    "port": 60217,
+    "ip": "kinetic-smp.aternos.me",
+    "port": 12849,
     "version": "1.20.1",
     "try-creative": false
   },
